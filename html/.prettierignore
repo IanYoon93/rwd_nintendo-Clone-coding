@@ -1,0 +1,7 @@
+# Ignore all HTML files:
+*.html
+
+# Ignore all css files:
+*.css
+
+swiper.min.js
